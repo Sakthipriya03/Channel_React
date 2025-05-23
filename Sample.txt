@@ -1,0 +1,5 @@
+welcome to githug
+created the new repository
+working on the repository
+opened the codespace
+working on the codespace
